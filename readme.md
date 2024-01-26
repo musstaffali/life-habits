@@ -1,6 +1,6 @@
 ## SkyView
 
-- Live Link - [Live Website](https://youthful-williams-e2da2e.netlify.app)
+- Live Link - [Live Website](https://musstaffali.github.io/life-habits/)
 
 ![](img/screen1.png)
 ![](img/screen2.png)

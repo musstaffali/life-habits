@@ -1,69 +1,83 @@
-# Health Journal ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## SkyView
 
-#### A program that allows a user to track their sleep, medications, food, drink, and exercises, 04/18/2019
+- Live Link - [Live Website](https://youthful-williams-e2da2e.netlify.app)
 
-#### By **Tessa Sullivan, Stephen Trewick, Mariia Stashuk, Maya Frame**
-
-## Description
-
-A journal where a user can track their sleep, medications, food, drink, and exercises.  They can see previous entries as well as see trends in food, sleep, etc.
+![](img/airline.png)
+![](img/airplane.png)
+![](img/airplane2.png)
 
 
+---
 
-### Specs
-| Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| User must fill out at least 1 field before saving the journal entry |User clicks submit on empty page|Pop-up asking them to enter data|
-| User can fill out a form with amount of sleep | User enters number |Journal entry created with that amount of sleep|
-| User cannot put anything but a number in the field | Input: blah | Output: Ask user for valid sleep
-| User can fill out a form with list of medications | User enters information |Journal entry created with that information|
-| User can fill out a form with list of exercises | User enters information |Journal entry created with that information|
-| User can fill out a form with food they have eaten | User enters information |Journal entry created with that information|
-| User can fill out a form with the drinks they have consumed | User enters information |Journal entry created with that information|
-| User can fill out a form with the drink amount they have consumed | User enters information |Journal entry created with that information|
-| User can fill out a form with general information | User enters information |Journal entry created with that information|
-| User can view previous entries|Journal entry created|A link is created with timedate stamp and made available to user|
-| User can track the sleep they have gotten|User clicks 'Track sleep' button|A list with clickable entries is generated of all journal entries which have contents for the sleep field with the contents of the sleep field displayed|
-| User can track the medications they have taken |User clicks 'Track medications' button|A list with clickable entries is generated of all journal entries which have contents for that field with the contents of that field displayed|
-| User can track the exercises they have done|User clicks 'Track exercises' button|A list with clickable entries is generated of all journal entries which have contents for that field with the contents of that field displayed|
-| User can track the food they have eaten|User clicks 'Track diet' button|A list with clickable entries is generated of all journal entries which have contents for that field with the contents of that field displayed|
-| User can track the drinks they have consumed|User clicks 'Track drinks' button|A list with clickable entries is generated of all journal entries which have contents for that field with the contents of that field displayed|
-| User can track their general journal entries |User clicks 'Track general' button|A list with clickable entries is generated of all journal entries which have contents for that field with the contents of that field displayed|
+### Table of Contents
+<!-- You're sections headers will be used to reference location of destination. -->
+
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
+
+---
 
 ## Description
-![Alt text](/img/screen1.png)
-![Alt text](/img/screen2.png)
-![Alt text](/img/screen3.png)
-![Alt text](/img/screen4.png)
-![Alt text](/img/screen5.png)
+
+A webpage that engages in trickling down flight routes across the globe and a variety of airlines 
+
+
+#### Technologies
+
+- React.js
+- HTML
+- CSS
+- Inner Database
+
+[Back To The Top](#read-me-template)
+
+---
+
+## How To Use
+
+#### Installation
+
+1. npm i
+
+
+2. npm start
 
 
 
-## Setup/Installation Requirements
+## License
 
-1. Clone this repository https://github.com/Marrri4ka/healthJournalWed
-2.  Open index.html with your browser of choice or open  https://marrri4ka.github.io/healthJournalWed/
-3. Enjoy!
+MIT License
+
+Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
+---
 
-## Known Issues
-* No known issues at this time
+## Author Info
 
-## Technologies Used
+- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica)
+- Website - [Mustafa Mustafa](https://mumustafam.com)
+- Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
 
-* HTML
-* Javascript
-  * jQuery
-* CSS
-  * Bootstrap
 
-## Support and contact details
-
-If you have any questions or problems, please contact  Tessa Sullivan @ tessa.sullivan@gmail.com, Mariia Stashuk (mariiapopovych@gmail.com), Maya Frame (mayacframe@gmail.com), Stephen Trewick (Stephent818@gmail.com)
-
-### License
-
-*{This software is licensed under the MIT license}*
-
-Copyright (c) 2019 **_Tessa Sullivan, Stephen Trewick, Mariia Stashuk, Maya Frame_**

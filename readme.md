@@ -41,18 +41,20 @@ A journal where a user can track their sleep, medications, food, drink, and exer
 
 #### Installation
 
-1. npm i
+1. Clone this repository https://github.com/musstaffali/life-habits.git
 
 
-2. npm start
+2. Open index.html with your browser of choice or open https://musstaffali.github.io/life-habits/
 
+
+3. Enjoy!
 
 
 ## License
 
 MIT License
 
-Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
+Copyright (c) [2024] [Mustafa Ali Aowd Mustafa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

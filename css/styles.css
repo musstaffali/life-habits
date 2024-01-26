@@ -1,5 +1,5 @@
 .carousel-control-next-icon {
-  color: #333; /* Neutral color */
+  color: blueviolet; /* Neutral color */
   background-color: blueviolet; /* Neutral color */
   border-radius: 50px;
   height: 35px;
@@ -90,7 +90,7 @@
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  border: 2px solid #ccc; /* Neutral color */
+  border: 2px solid blueviolet; /* Neutral color */
 }
 
 .circle::before,
@@ -111,9 +111,9 @@
 .circle {
   position: relative;
   z-index: 2;
-  background-color: #fff;
-  border: 2px solid #888; /* Neutral color */
-  color: #888; /* Neutral color */
+  background-color: black;
+  border: 2px solid blueviolet; /* Neutral color */
+  color: #942525; /* Neutral color */
   line-height: 50px;
   overflow: hidden;
 }
@@ -132,7 +132,7 @@
 }
 
 .circle:hover::after {
-  background: #888; /* Neutral color */
+  background: blueviolet; /* Neutral color */
   border-radius: 50%;
   transform: scale(.9);
 }
